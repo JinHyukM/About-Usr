@@ -1,0 +1,118 @@
+.page {
+  background-color: #fff5ca;
+  overflow-x: hidden;
+}
+
+.ellipse {
+  font-family: "Sanchez", serif;
+  position: absolute;
+  background-color: white;
+  height: 85vh;
+  width: 80vw;
+  left: -23%;
+  top: -46vh;
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.heading {
+  position: relative;
+  margin-left: 2vw;
+  color: #28515b;
+  font-size: calc(3.9vw);
+}
+
+.middle {
+}
+
+.mission {
+  text-align: right;
+
+  margin-right: 20%;
+}
+
+.mission h1 {
+  font-family: "Sanchez", serif;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 4px;
+  color: #33505a;
+}
+
+.mission p {
+  font-size: 17px;
+  font-weight: bold;
+  margin-left: 60%;
+  margin-top: 5px;
+  line-height: 25px;
+}
+
+.founder {
+  text-align: left;
+  margin-left: 20%;
+}
+
+.founder h1 {
+  font-family: "Sanchez", serif;
+  font-weight: bold;
+  font-size: 56px;
+  margin-bottom: 4px;
+  color: #33505a;
+}
+
+.founder p {
+  font-size: 17px;
+  font-weight: bold;
+  margin-right: 60%;
+  margin-top: 5px;
+  line-height: 25px;
+}
+
+.asset88 {
+  position: absolute;
+  width: 450px;
+  height: 400px;
+  left: 3%;
+  top: 20%;
+}
+
+.asset56 {
+  width: 500px;
+  height: 600px;
+  position: absolute;
+  right: -1%;
+  top: 2%;
+}
+
+.bottom {
+  text-align: center;
+  background-color: #33505a;
+  width: 100%;
+  padding-bottom: 30px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.copyright {
+  color: #ffffff;
+}
+
+.contact {
+  font-family: "Bree Serif", serif;
+  color: #ffffff;
+}
+
+.info {
+  text-align: center;
+  font-size: 20px;
+  margin: 0 10px;
+  display: inline-block;
+  color: #ffffff;
+}
+
+.vl {
+  display: inline-block;
+  border-left: 2px solid #63d8d1;
+  height: 60px;
+}
